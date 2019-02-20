@@ -22,7 +22,7 @@ nav {
   letter-spacing: -0.055em;
   line-height: 0.9em;
   text-indent: -0.03em;
-  font-weight: lighter;
+  font-weight: normal;
 }
 
 .indexPageWrapper {
@@ -30,8 +30,23 @@ nav {
 }
 
 .card {
-  height: 400px;
+  height: 300px;
   width: 1000px;
   background-color: black;
   text-align: center;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  border-radius: 0px;
+}
+
+.cardPicture {
+  height: 250px;
+  width: 952px;
+  background-color: white;
+  text-align: center;
+  margin: auto auto;
+}
+
+.navbar {
+  background-color: black !important;
 }
