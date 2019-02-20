@@ -47,6 +47,10 @@ nav {
   margin: auto auto;
 }
 
+.card a:hover {
+  background-color: #f50057;
+}
+
 .navbar {
   background-color: black !important;
 }
