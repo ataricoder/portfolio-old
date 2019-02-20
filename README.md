@@ -8,7 +8,7 @@ https://getbootstrap.com/
 bash
 ```
 ### Thanks to:
-Font: Inter UI
+Font: Inter UI <br>
 by: @rsms
 
 
