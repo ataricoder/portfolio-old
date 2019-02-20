@@ -1,13 +1,13 @@
 # ataricoder
 ### Portfolio for Daniel Munoz
 Libraries used:
-Bootstrap
+Bootstrap <br>
 https://getbootstrap.com/
 
 ```
 bash
 ```
-###Thanks to:
+### Thanks to:
 Font: Inter UI
 by: @rsms
 
