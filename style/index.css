@@ -16,3 +16,8 @@ h1 {
   color: #010101;
   font-size: 110px;
 }
+
+.absolute {
+  position: fixed;
+  z-index: 70;
+}
