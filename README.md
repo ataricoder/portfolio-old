@@ -1,15 +1,17 @@
 # ataricoder
 ### Portfolio for Daniel Munoz
-Libraries used:
-Bootstrap <br>
-https://getbootstrap.com/
-
+Libraries used (Installation Method):
+Bootstrap (CDN)<br>
+https://getbootstrap.com/<br>
+<br>
+fullPage.js (libraries folder)<br>
+https://alvarotrigo.com/fullPage/#page1<br>
 ```
 bash
 ```
-### Thanks to:
-Font: Inter UI <br>
-by: @rsms
+### Font:
+Inter UI<br>
+by @rsms
 
 
 
