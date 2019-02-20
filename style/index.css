@@ -12,7 +12,15 @@ h1 {
   letter-spacing: -0.055em;
   line-height: 0.9em;
   text-indent: -0.03em;
-  font-weight: 740;
+  font-weight: bolder;
   color: #010101;
   font-size: 110px;
+}
+
+nav {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.055em;
+  line-height: 0.9em;
+  text-indent: -0.03em;
+  font-weight: lighter;
 }
