@@ -24,3 +24,14 @@ nav {
   text-indent: -0.03em;
   font-weight: lighter;
 }
+
+.indexPageWrapper {
+  padding: 100px;
+}
+
+.card {
+  height: 400px;
+  width: 1000px;
+  background-color: black;
+  text-align: center;
+}
