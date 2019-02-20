@@ -1,6 +1,6 @@
 # ataricoder
 ### Portfolio for Daniel Munoz
-Libraries used (Installation Method):
+Libraries used (Installation Method):<br>
 Bootstrap (CDN)<br>
 https://getbootstrap.com/<br>
 <br>
