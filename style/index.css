@@ -50,7 +50,11 @@ nav {
   margin: auto auto;
 }
 
-.card1 a:hover {
+.card1 {
+  margin-left: auto auto !important;
+}
+
+.card a:hover {
   background-color: #f50057;
 }
 
