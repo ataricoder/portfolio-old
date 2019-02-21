@@ -78,3 +78,8 @@ nav {
   padding-right: 100px;
   padding-top: 0px !important;
 }
+
+.imagesMiddle {
+  margin: 0 auto;
+  text-align: center;
+}
