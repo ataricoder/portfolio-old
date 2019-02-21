@@ -5,7 +5,9 @@ html { font-family: 'Inter', sans-serif; }
 }
 
 
-
+body {
+  background-color: black;
+}
 
 h1 {
   font-family: 'Inter', sans-serif;
@@ -13,8 +15,9 @@ h1 {
   line-height: 0.9em;
   text-indent: -0.03em;
   font-weight: bolder;
-  color: #010101;
+  color: white;
   font-size: 110px;
+  margin-bottom: 50px;
 }
 
 nav {
@@ -32,7 +35,7 @@ nav {
 .card {
   height: 300px;
   width: 1000px;
-  background-color: black;
+  background-color: #191919;
   text-align: center;
   margin: 0 auto;
   margin-bottom: 30px;
@@ -42,15 +45,19 @@ nav {
 .cardPicture {
   height: 250px;
   width: 952px;
-  background-color: white;
+  background-picture: white;
   text-align: center;
   margin: auto auto;
 }
 
-.card a:hover {
+.card1 a:hover {
   background-color: #f50057;
 }
 
 .navbar {
   background-color: black !important;
+}
+
+.picture1 {
+  background-color: #4abbed !important;
 }
