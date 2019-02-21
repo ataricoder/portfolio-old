@@ -20,12 +20,23 @@ h1 {
   margin-bottom: 50px;
 }
 
+p {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.055em;
+  line-height: 0.9em;
+  text-indent: -0.03em;
+  font-weight: normal;
+  font-size: 34px;
+}
+
+
 nav {
   font-family: 'Inter', sans-serif;
   letter-spacing: -0.055em;
   line-height: 0.9em;
   text-indent: -0.03em;
   font-weight: normal;
+  z-index: 120;
 }
 
 .indexPageWrapper {
@@ -50,18 +61,20 @@ nav {
   margin: auto auto;
 }
 
-.card1 {
-  margin-left: auto auto !important;
-}
-
-.card a:hover {
+.card1 a:hover {
   background-color: #f50057;
 }
 
 .navbar {
-  background-color: black !important;
+  background-color: #333333 !important;
 }
 
 .picture1 {
   background-color: #4abbed !important;
+}
+
+.section {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 0px !important;
 }
